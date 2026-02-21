@@ -17,9 +17,9 @@ const Contact = () => {
       {/* Left: Image Background */}
       <div className="hidden md:block md:w-1/2 h-screen sticky top-0">
         <img
-          src="https://picsum.photos/seed/contact/1200/1600?grayscale"
+          src="/src/assets/contactpngwbst.png"
           alt="Contact background"
-          className="w-full h-full object-cover grayscale opacity-50"
+          className="w-full h-full object-cover""
         />
         <div className="absolute inset-0 bg-black/20" />
       </div>
