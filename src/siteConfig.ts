@@ -135,12 +135,13 @@ export const siteConfig = {
       description: "Symbolic representation of time and destiny through intricate geometric patterns."
     }
   ],
-  contactEmail: "satriyo@dotstudio.art",
+  contactEmail: "rio.heza@gmail.com",
   socialLinks: {
-    whatsapp: "https://wa.me/1234567890",
-    instagram: "https://instagram.com/dotstudio",
-    email: "mailto:satriyo@dotstudio.art",
-    fiverr: "https://fiverr.com/satriyo",
-    behance: "https://behance.net/satriyo"
+    whatsapp: "https://wa.me/+6281232601123
+",
+    instagram: "https://instagram.com/dot.studio_8",
+    email: "mailto:rio.heza@gmail.com",
+    fiverr: "https://www.fiverr.com/s/bd6mj91",
+    behance: "https://www.behance.net/satriyoilmahesaM"
   }
 };
