@@ -23,7 +23,7 @@ export const siteConfig = {
     }
   ],
   artistInfo: {
-    bio: "Satriyo Ilmahesa Mahawikan is a dedicated fine artist specializing in traditional ink techniques. His work explores the intersection of meticulous detail and emotional depth, often spending hundreds of hours on a single piece to achieve the perfect balance of light and shadow through stippling and cross-hatching.",
+    bio: "Satriyo Ilmahesa Mahawikan is an artist and illustrator focused on traditional ink. His work explores layered symbolism and open interpretation, allowing viewers to find their own meaning. Self-taught, he specializes in stippling and cross-hatching, building intricate compositions of light and shadow with patience and depth.",
     photo: "https://picsum.photos/seed/artist/800/1000",
   },
   techniques: [
@@ -32,7 +32,7 @@ export const siteConfig = {
     "Pen & Ink",
     "Fine Line Illustration",
     "Realism",
-    "Architectural Sketching"
+    "Surrealism"
   ],
   theProcess: [
     {
