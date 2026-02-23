@@ -137,11 +137,10 @@ export const siteConfig = {
   ],
   contactEmail: "rio.heza@gmail.com",
   socialLinks: {
-    whatsapp: "https://wa.me/+6281232601123
-",
-    instagram: "https://instagram.com/dot.studio_8",
+  whatsapp: "https://wa.me/6281232601123",
+instagram: "https://instagram.com/dot.studio_8",
     email: "mailto:rio.heza@gmail.com",
     fiverr: "https://www.fiverr.com/s/bd6mj91",
-    behance: "https://www.behance.net/satriyoilmahesaM"
+    behance: "https://www.behance.net/satriyoilmahesaM",
   }
 };
