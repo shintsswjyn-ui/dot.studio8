@@ -76,60 +76,60 @@ export const siteConfig = {
   drawings: [
     {
       id: "1",
-      title: "The Silent Watcher",
-      year: "2023",
-      price: "$1,200",
-      size: "50 x 70 cm",
+      title: "Penyihir",
+      year: "2025",
+      price: "$95",
+      size: "A3 / A4",
       thumbnail: "https://picsum.photos/seed/d1/600/800",
       image: "https://picsum.photos/seed/d1/1200/1600",
-      description: "A meticulous stippling piece exploring the concept of observation and stillness. Created over 120 hours using 0.05mm technical pens."
+      description: "A detailed stippling composition exploring natural cycles and quiet tension within a forest landscape, released in a limited edition of 25 signed prints on 300gsm cold press fine art paper."
     },
     {
       id: "2",
-      title: "Urban Decay",
-      year: "2022",
-      price: "$950",
-      size: "40 x 40 cm",
+      title: "Raven",
+      year: "2025",
+      price: "$95",
+      size: "A3 / A4",
       thumbnail: "https://picsum.photos/seed/d2/600/600",
       image: "https://picsum.photos/seed/d2/1200/1200",
-      description: "An architectural study using cross-hatching to depict the beauty in crumbling structures."
+      description: "A detailed stippling work depicting a lone plague figure observing a landscape of ruin and memory, where nature reclaims stone and silence lingers. Released in a limited edition of 25 signed prints on 300gsm cold press textured art paper."
     },
     {
       id: "3",
-      title: "Flow State",
+      title: "Silent In The Final Forest",
       year: "2024",
-      price: "$1,500",
-      size: "60 x 80 cm",
+      price: "$95",
+      size: "A3 / A4",
       thumbnail: "https://picsum.photos/seed/d3/600/800",
       image: "https://picsum.photos/seed/d3/1200/1600",
-      description: "Abstract ink flow representing the mental state of deep focus and creativity."
+      description: "A detailed stippling composition exploring natural cycles and quiet tension within a forest landscape, released in a limited edition of 25 signed prints on 300gsm cold press fine art paper."
     },
     {
       id: "4",
-      title: "Ancestral Roots",
-      year: "2023",
-      price: "$1,100",
-      size: "50 x 50 cm",
+      title: "The Plague Watcher",
+      year: "2024",
+      price: "$95",
+      size: "A3 / A4",
       thumbnail: "https://picsum.photos/seed/d4/600/600",
       image: "https://picsum.photos/seed/d4/1200/1200",
-      description: "Detailed botanical illustration focusing on the intricate patterns of ancient tree roots."
+      description: "A detailed stippling work depicting a lone plague figure observing a landscape of ruin and memory, where nature reclaims stone and silence lingers. Released in a limited edition of 25 signed prints on 300gsm cold press textured art paper."
     },
     {
       id: "5",
-      title: "Midnight Echo",
-      year: "2024",
-      price: "$800",
-      size: "30 x 40 cm",
+      title: "Serpent",
+      year: "2023",
+      price: "$90",
+      size: "A3 / A4",
       thumbnail: "https://picsum.photos/seed/d5/600/800",
       image: "https://picsum.photos/seed/d5/1200/1600",
       description: "A study of light and shadow in a nocturnal setting, utilizing heavy ink washes and fine line details."
     },
     {
       id: "6",
-      title: "The Weaver",
-      year: "2022",
-      price: "$1,350",
-      size: "50 x 70 cm",
+      title: "Aequvalenthem",
+      year: "2023",
+      price: "$90",
+      size: "A3 / A4",
       thumbnail: "https://picsum.photos/seed/d6/600/800",
       image: "https://picsum.photos/seed/d6/1200/1600",
       description: "Symbolic representation of time and destiny through intricate geometric patterns."
