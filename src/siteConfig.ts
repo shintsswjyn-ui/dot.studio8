@@ -1,24 +1,23 @@
+import video1 from './assets/Vid-Main1.mp4';
+import video2 from './assets/Vid-main2.mp4';
+import video3 from './assets/vid-main3.mp4';
+
 export const siteConfig = {
   siteName: "DOT STUDIO",
   artistName: "Satriyo Ilmahesa Mahawikan",
   tagline: "All things begin and end with a dot.",
   heroSlides: [
     {
-      type: "image",
-      src: "https://picsum.photos/seed/dot1/1920/1080",
-      poster: "https://picsum.photos/seed/dot1/1920/1080",
-      alt: "Stippling portrait detail"
+      type: "video",
+      src: video1
     },
     {
       type: "video",
-      src: "/src/assets/Vid-Main1.mp4",
-      alt: "Drawing process video"
+      src: video2
     },
     {
-      type: "image",
-      src: "https://picsum.photos/seed/dot3/1920/1080",
-      poster: "https://picsum.photos/seed/dot3/1920/1080",
-      alt: "Cross-hatching landscape"
+      type: "video",
+      src: video3
     }
   ],
   artistInfo: {
