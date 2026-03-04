@@ -11,8 +11,7 @@ export const siteConfig = {
     },
     {
       type: "video",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-artist-drawing-a-sketch-on-paper-4122-large.mp4",
-      poster: "https://picsum.photos/seed/dot2/1920/1080",
+      src: "/src/assets/Vid-Main1.mp4",
       alt: "Drawing process video"
     },
     {
